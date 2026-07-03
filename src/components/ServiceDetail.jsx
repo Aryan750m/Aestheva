@@ -213,7 +213,7 @@ export default function ServiceDetail({ onBookClick }) {
 
         {/* Mini Logo — bottom-right of banner */}
         <img
-          src="/minilogo.jpg"
+          src="/minilogo.webp"
           alt="Aesthéva"
           className="banner-minilogo"
         />

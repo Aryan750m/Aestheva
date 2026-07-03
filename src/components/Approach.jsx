@@ -42,7 +42,7 @@ export default function Approach({ onBookClick }) {
           <div className="hp-img-col">
             <Tilt className="hp-img-frame">
               <img
-                src="/dr-ketaki.jpeg"
+                src="/dr-ketaki.webp"
                 alt="Dr. Ketaki — Aesthéva Clinic"
                 className="hp-doctor-img"
                 loading="lazy"

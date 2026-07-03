@@ -123,7 +123,7 @@ export default function Hero({ onBookClick }) {
 
             <div className="col-md-6 align-self-end img-column">
               <div className="hero-thumbnail" style={{ overflow: 'hidden' }}>
-                <img ref={imgRef} className="thumbnail" src="/hero-banner.png" alt="Aesthéva Skin Clinic" style={{ willChange: 'transform' }} />
+                <img ref={imgRef} className="thumbnail" src="/hero-banner.webp" alt="Aesthéva Skin Clinic" style={{ willChange: 'transform' }} />
               </div>
             </div>
           </div>

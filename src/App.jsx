@@ -116,7 +116,7 @@ function App() {
               "@context": "https://schema.org",
               "@type": "MedicalBusiness",
               "name": "Aesthéva Clinic",
-              "image": "https://astheva.com/logo.png",
+              "image": "https://astheva.com/logo.webp",
               "@id": "https://astheva.com/#clinic",
               "url": "https://astheva.com",
               "telephone": "+919136611998",
